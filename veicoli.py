@@ -20,6 +20,8 @@ def aggiungi_veicolo(id_veicolo, marca, modello, tipo, anno):
 veicoli.append(aggiungi_veicolo)
 
 aggiungi_veicolo
+
+nuova linea
 '''
 
 
